@@ -2,10 +2,10 @@
 
 const chatConfig = {
     bot: {
-      name: 'MentorIA - IFB',
+      name: 'MentorIA NeuroAdaptativo - IFB',
   
       initialMessage:
-        'Olá! 👋 Eu sou o **MentorIA** e estou aqui para ajudar você a **compreender problemas de programação e construir suas próprias soluções algorítmicas**, passo a passo. Posso auxiliar com pseudocódigo, Portugol e diferentes linguagens de programação. Envie um problema, exercício ou código que esteja desenvolvendo e vamos construir a solução juntos. **Antes de começarmos, como posso chamar você?**',
+        'Olá! 👋 Eu sou o **MentorIA NeuroAdaptativo** e estou aqui para ajudar você a **compreender problemas de programação e construir suas próprias soluções algorítmicas**, passo a passo. Posso auxiliar com pseudocódigo, Portugol e diferentes linguagens de programação. Envie um problema, exercício ou código que esteja desenvolvendo e vamos construir a solução juntos. **Antes de começarmos, como posso chamar você?**',
     },
   
     interface: {
@@ -15,9 +15,9 @@ const chatConfig = {
     },
   
     images: {
-      botAvatar: 'MentorIA_avatar.svg',
+      botAvatar: 'MentorIA_NeuroAdaptativo_avatar.svg',
       userAvatar: 'ifb_estudante_avatar.svg',
-      banner: 'MentorIA_banner_300kb.svg',
+      banner: 'MentorIA_NeuroAdaptativo_banner.svg',
     },
   
     backend: {
