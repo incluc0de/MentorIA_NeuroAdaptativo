@@ -10,7 +10,7 @@ const chatConfig = {
   
     interface: {
       headerText: 'Assistente Virtual - Programação',
-      placeholderText: 'Digite sua dúvida...',
+      placeholderText: 'Digite sua dúvida aqui ...',
       loadingText: '🔎 Consultando a base de conhecimento',
     },
   
